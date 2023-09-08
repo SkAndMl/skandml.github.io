@@ -23,7 +23,7 @@ Developed a **character level language model** that is capable of generating fun
 
 ![Poetika](/assets/img/poetika.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### PowerCoder
 [Publication](https://journal.uob.edu.bh/handle/123456789/5070)
 
 PowerCoder is a research project which is being developed as an LLM that would assist competitive programmers. In it's current stage, given a coding question it should be able to suggest the data structures and the algorithms that can be used for solving the question.
