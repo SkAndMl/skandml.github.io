@@ -5,6 +5,7 @@
 ## Education
 - B.Tech, Computer Science and Engineering | Puducherry Technological University (_May 2024_)		
 - High School | St.Patrick MHSS, Puducherry (_May 2020_)
+
 ## Internship Experience
 **Data Science Teaching Assistant @  Testbook (_July 2022 - April 2023_)**
 - Helped with framing assignments for the Data Science course
@@ -20,7 +21,6 @@
 
 Developed a **character level language model** that is capable of generating fun little poems. Model’s architecture is based on the architecture of **GPT-1** and it is deployed on **Streamlit**. Pre-trained it on Shakespeare and Wordsworth poems. Used FPDF2 for converting the generated poem into a PDF file
 
-
 ![Poetika](/assets/img/poetika.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
@@ -33,6 +33,5 @@ PowerCoder is a research project which is being developed as an LLM that would a
 ## Publications
 1. Sathya Krishnan TS, Shunmugapriya P. [Generic Approach to Visualization of Time Series Data (2022)](https://doi.org/10.48550/arXiv.2207.13664)
 2. Sathya Krishnan TS, Lakshmana Pandian S, Shunmugapriya P. [Stacking of Hyperparameter Tuned Models for Tagging Coding Problems (2023)](https://doi.org/10.48550/arXiv.2306.10077)
-
 
 - [Machine Learning Blog](https://medium.com/@mr.sk12112002)
