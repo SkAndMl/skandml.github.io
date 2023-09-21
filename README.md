@@ -1,6 +1,6 @@
 # Machine Learning Researcher
 
-#### Technical Skills: Python, MySQL, PyTorch, Tensorflow, HuggingFace, Web Scraping
+#### Technical Skills: Python, MySQL, PyTorch, Tensorflow, HuggingFace, Web Scraping, Dockers, LangChain, Streamlit, Chainlit, NLTK
 
 ## Education
 - B.Tech, Computer Science and Engineering | Puducherry Technological University (_May 2024_)		
@@ -34,4 +34,10 @@ PowerCoder is a research project which is being developed as an LLM that would a
 1. Sathya Krishnan TS, Shunmugapriya P. [Generic Approach to Visualization of Time Series Data (2022)](https://doi.org/10.48550/arXiv.2207.13664)
 2. Sathya Krishnan TS, Lakshmana Pandian S, Shunmugapriya P. [Stacking of Hyperparameter Tuned Models for Tagging Coding Problems (2023)](https://doi.org/10.48550/arXiv.2306.10077)
 
-- [Machine Learning Blog](https://medium.com/@mr.sk12112002)
+## Positions Held
+* Joint Secratary of AI Club at PTU (_September 2023 - Present_)
+* Class Representative of CSE Department (_September 2023 - Present_)
+
+
+
+
