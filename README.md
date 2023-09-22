@@ -34,6 +34,22 @@ PowerCoder is a research project which is being developed as an LLM that would a
 1. Sathya Krishnan TS, Shunmugapriya P. [Generic Approach to Visualization of Time Series Data (2022)](https://doi.org/10.48550/arXiv.2207.13664)
 2. Sathya Krishnan TS, Lakshmana Pandian S, Shunmugapriya P. [Stacking of Hyperparameter Tuned Models for Tagging Coding Problems (2023)](https://doi.org/10.48550/arXiv.2306.10077)
 
+## Blogs
+1. [Understanding Transformers (Jul 11, 2023)](https://medium.com/mlearning-ai/understanding-transformers-388a0ff97799)
+2. [Understanding Transformers-Encoder (Oct 12, 2022)](https://medium.com/mlearning-ai/understanding-transformers-encoder-1f269b1cc943)
+3. [Understanding GANs (Sep 22, 2022)](https://medium.com/mlearning-ai/understanding-gans-3aa079e57925)
+4. [Neural Style Transfer (Jul 24, 2022)](https://medium.com/mlearning-ai/cnn-neural-style-transfer-88829c6e8f75)
+5. [Ensemble Models (Jul 10, 2022)](https://medium.com/mlearning-ai/classification-algorithms-4-ensemble-models-ceecd5020f19)
+6. [Prinicipal Component Analysis (Jun 1, 2022)](https://medium.com/mlearning-ai/dimensionality-reduction-principal-component-analysis-d990233070e9)
+7. [Evaluating Classification Models (Apr 30, 2022)](https://medium.com/mlearning-ai/evaluating-classification-models-943758b285be)
+8. [Decision Tree (Apr 8, 2022)](https://medium.com/mlearning-ai/classification-algorithms-3-decision-tree-801d59011780)
+9. [Support Vector Machine (Mar 24, 2022)](https://medium.com/mlearning-ai/classification-algorithms-2-support-vector-machine-3fba8f1c9534)
+10. [Gradient Descent (Mar 3, 2022)](https://medium.com/mlearning-ai/machine-learning-optimization-algorithms-1-gradient-descent-258dfb5987e1)
+11. [Optimizing web design using Machine Learning (Feb 13, 2022)](https://medium.com/mlearning-ai/optimizing-web-design-using-machine-learning-1f3ac80ac4c1)
+12. [Logistic Regression (Feb 2, 2022)](https://medium.com/mlearning-ai/classification-algorithms-1-logistic-regression-part-1-a2b0dab31b5a)
+13. [Understanding Adaline (Jan 22, 2022)](https://medium.com/mlearning-ai/understanding-adaline-da79ab8bbc5a)
+14. [Understanding Perceptron (Jan 4, 2022)](https://medium.com/mlearning-ai/understanding-perceptron-8e82a5a97ea)
+
 ## Positions Held
 * Joint Secratary of AI Club at PTU (_September 2023 - Present_)
 * Class Representative of CSE Department (_September 2023 - Present_)
