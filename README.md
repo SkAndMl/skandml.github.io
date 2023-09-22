@@ -34,6 +34,12 @@ PowerCoder is a research project which is being developed as an LLM that would a
 1. Sathya Krishnan TS, Shunmugapriya P. [Generic Approach to Visualization of Time Series Data (2022)](https://doi.org/10.48550/arXiv.2207.13664)
 2. Sathya Krishnan TS, Lakshmana Pandian S, Shunmugapriya P. [Stacking of Hyperparameter Tuned Models for Tagging Coding Problems (2023)](https://doi.org/10.48550/arXiv.2306.10077)
 
+## Current Focus
+I am currently working on developing custom chatbots using *Langchain, Chainlit and Dockers* with the help of Falcon-7b, Falcon-40b and Llama-2-7b
+
+## Research Interests
+My research interests lie in Natural Language Processing, Code Gen using LLMs and Cross Langauge Comm.
+
 ## Blogs
 1. [Understanding Transformers (Jul 11, 2023)](https://medium.com/mlearning-ai/understanding-transformers-388a0ff97799)
 2. [Understanding Transformers-Encoder (Oct 12, 2022)](https://medium.com/mlearning-ai/understanding-transformers-encoder-1f269b1cc943)
