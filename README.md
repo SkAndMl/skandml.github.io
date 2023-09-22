@@ -68,8 +68,9 @@ My research interests lie in Natural Language Processing, Code Gen using LLMs an
 * All India Rank 6 in Natural Language Processing course offered by IIT Kharagpur through NPTEL *Jul 2022 - Nov 2022*
 * 2x Kaggle Expert *Jun 2022*
 * 2nd Prize Codifier at CTFEST 2021 National Level Online Symposium *Dec 2021*
-* Best Outgoing Student St.Patrick MHSS 2020 Batch *Mar 2020* 
+* Best Outgoing Student St.Patrick MHSS 2020 Batch *Mar 2020*
 
+I am active on the following platforms: [Leetcode](https://leetcode.com/SathyaKrishnan/), [Medium](https://medium.com/@mr.sk12112002), [Kaggle](https://www.kaggle.com/sathyakrishnan12)
 
 
 
