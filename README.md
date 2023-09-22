@@ -4,7 +4,7 @@
 
 ## Education
 - B.Tech, Computer Science and Engineering | Puducherry Technological University (_May 2024_)		
-- High School | St.Patrick MHSS, Puducherry (_May 2020_)
+- High School                              | St.Patrick MHSS, Puducherry (_May 2020_)
 
 ## Internship Experience
 **Data Science Teaching Assistant @  Testbook (_July 2022 - April 2023_)**
@@ -57,8 +57,18 @@ My research interests lie in Natural Language Processing, Code Gen using LLMs an
 14. [Understanding Perceptron (Jan 4, 2022)](https://medium.com/mlearning-ai/understanding-perceptron-8e82a5a97ea)
 
 ## Positions Held
-* Joint Secratary of AI Club at PTU (_September 2023 - Present_)
+* Joint Secretary of AI Club at PTU (_September 2023 - Present_)
 * Class Representative of CSE Department (_September 2023 - Present_)
+
+## Achievements
+* 1st Prize IEEE coding competition *Aug 2023*
+* Top 14% (Rating: 1683) in Leetcode *Jun 2023*
+* 1st Prize - Blind Coding, Debug the Code and Relay Coding at Neura'23 National Level Technincal Symposium *Feb 2023*
+* 1st Prize - Discover Coding at ENCINFO 2023 National Level Symposium *Feb 2023*
+* All India Rank 6 in Natural Language Processing course offered by IIT Kharagpur through NPTEL *Jul 2022 - Nov 2022*
+* 2x Kaggle Expert *Jun 2022*
+* 2nd Prize Codifier at CTFEST 2021 National Level Online Symposium *Dec 2021*
+* Best Outgoing Student St.Patrick MHSS 2020 Batch *Mar 2020* 
 
 
 
