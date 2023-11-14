@@ -57,7 +57,7 @@ My research interests lie in Natural Language Processing, Code Gen using LLMs an
 14. [Understanding Perceptron (Jan 4, 2022)](https://medium.com/mlearning-ai/understanding-perceptron-8e82a5a97ea)
 
 ## Positions Held
-* Joint Secretary of AI Club at PTU (_September 2023 - Present_)
+* President of AI Club at PTU (_September 2023 - Present_)
 * Class Representative of CSE Department (_September 2023 - Present_)
 
 ## Achievements
