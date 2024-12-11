@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S in Artificial Intelligence, Nanyang Technological University, 2025 (expected)
+* B.Tech in Computer Science and Engineering, Puducherry Technological University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2024 - Present: Research Intern
+  * Speech and Language Lab @ NTU
+  * Duties includes: Developing synthetic dialogue generation frameworks and code-switch dialogue summarization
+  * Supervisor: Professor Eng Chng Siong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2024 - June 2024: Machine Learning Engineer
+  * Figr
+  * Duties included: Backend of Figr AI
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for COLING'25, 3rd DAI Workshop @ AAAI'25
